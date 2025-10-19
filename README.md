@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 
 ## Conect With Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/alejandra-hidalgo-mancilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alejandra-hidalgo-mancilla)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/vle1113.jhm?igsh=MThzZW5iand3cHd2Zw==)
 [![Correo](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:alejandra.11jhm@gmail.com)
